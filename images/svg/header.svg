@@ -36,10 +36,10 @@ rect.headerRect:hover {
   fill: #C9FFE5;
 }
 .drop {
-  fill: #4447e3;
+  fill: #0049c5;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: #0049c5;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
