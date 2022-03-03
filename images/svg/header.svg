@@ -41,7 +41,7 @@ rect.headerRect:hover {
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
   stroke-width: 0.5;
-  transform: translateY(30px) ;
+  transform: translateY(25px) ;
   transform-box: fill-box;
   transform-origin: 50% 100%;
 }
@@ -109,7 +109,7 @@ rect.headerRect:hover {
 }
 @keyframes underline_move {
   to {
-    transform: translateX(-39px);
+    transform: translateX(-20px);
   }}
 g.typingUnderline rect {
    animation: 
