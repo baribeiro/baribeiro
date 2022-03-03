@@ -17,7 +17,7 @@ svg {
   overflow:visible;
 }
 rect.headerRect {
-  fill: white;
+  fill: black;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
@@ -41,7 +41,7 @@ rect.headerRect:hover {
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
   stroke-width: 0.5;
-  transform: translateY(25px) ;
+  transform: translateY(30px) ;
   transform-box: fill-box;
   transform-origin: 50% 100%;
 }
