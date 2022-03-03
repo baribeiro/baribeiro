@@ -109,7 +109,7 @@ rect.headerRect:hover {
 }
 @keyframes underline_move {
   to {
-    transform: translateX(-45px);
+    transform: translateX(-50px);
   }}
 g.typingUnderline rect {
    animation: 
