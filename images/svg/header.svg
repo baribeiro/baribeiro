@@ -113,7 +113,7 @@ rect.headerRect:hover {
   }}
 g.typingUnderline rect {
    animation: 
-    blink 0.5s infinite, 
+    blink 2s infinite, 
     underline_move 4s steps(29, end) forwards;
 }
 </style>
