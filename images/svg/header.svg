@@ -178,7 +178,7 @@ g.typingUnderline rect {
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+  <rect fill="#FFFFFF" x="75" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
       <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
@@ -197,7 +197,7 @@ g.typingUnderline rect {
 
 <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
       fill="#AAA" font-weight="bold"> 
-      Hi!
+      Hi there!
 </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
