@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Alves Ribeiro</h1>
-<h3 align="center">Ph.D. student, Researcher, and Invited Assistant Professor</h3>
+<img src="images/svg/header.svg"></img>
 
 <div align="center">
 
