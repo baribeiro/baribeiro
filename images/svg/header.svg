@@ -114,7 +114,7 @@ rect.headerRect:hover {
 g.typingUnderline rect {
    animation: 
     blink 0.5s infinite, 
-    underline_move 4s steps(24, end) forwards;
+    underline_move 4s steps(29, end) forwards;
 }
 </style>
 
@@ -179,7 +179,7 @@ g.typingUnderline rect {
 
 <g class="typingUnderline">
   <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
-      <animate attributeName="visible" from="hidden" to="visible" dur="2s" fill="freeze"/>
+      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
   </rect>
 </g>
 
