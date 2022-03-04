@@ -8,7 +8,7 @@
 
 <h2> About Me</h2>
   
-- 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at @TUDElft and @FEUP
+- 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at @TUDelft and @FEUP
 - 🧑🏽‍🏫 Invited Assistante Professor at @FEUP
 - 💻 Research Intern at @[Inductiva Research Labs](https://inductiva.ai/)
 - 💬 Passionate about Artificial Intelligence in Mechanical Engineering, especially to create better designs of complex mechanical systems based on structural analysis
