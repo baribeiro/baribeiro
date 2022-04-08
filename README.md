@@ -7,6 +7,7 @@
 
 
 
+
 <h2> About Me</h2>
   
 - 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at @TUDelft and @FEUP
@@ -30,7 +31,6 @@
 </div>
 
 <br>
-
 
 
 <h2> GitHub Status</h2>
