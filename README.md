@@ -5,6 +5,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=baribeiro.baribeiro) [![Github](https://img.shields.io/github/followers/baribeiro?label=Follow&style=social)](https://github.com/baribeiro)
 </div>
 
+
 <h2> About Me</h2>
   
 - 🎓 Ph.D. student in the field of Machine Learning and Computational Mechanics at @TUDelft and @FEUP
